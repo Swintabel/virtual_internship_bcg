@@ -1,4 +1,5 @@
-# virtual_internship_bcg
+# BCG VIRTUAL INTERNSHIP
+
 # [Exploratory Analysis](https://www.kaggle.com/code/swintabelagyei/the-forage)
 # [MODEL BUILDING](https://www.kaggle.com/code/swintabelagyei/feature-engineering)
 # EXECUTIVE SUMMARY
