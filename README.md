@@ -1,8 +1,8 @@
 # BCG VIRTUAL INTERNSHIP
 
-# [Exploratory Analysis](https://www.kaggle.com/code/swintabelagyei/the-forage)
-# [MODEL BUILDING](https://www.kaggle.com/code/swintabelagyei/feature-engineering)
-# EXECUTIVE SUMMARY
+### [EDA](https://www.kaggle.com/code/swintabelagyei/the-forage)
+### [MODEL](https://www.kaggle.com/code/swintabelagyei/feature-engineering)
+## EXECUTIVE SUMMARY
 The project aimed to investigate if consumer churn results from price sensitivity.
 Price sensitivity measures the changes in consumption resulting from changes in prices. To calculate this, we find the percentage change in consumption and divide it by the percentage change in price for the various customers. This was done with the variable prices and the fixed prices separately.
 ![image](https://github.com/Swintabel/virtual_internship_bcg/assets/66244029/1f1bb12c-2945-49a5-9a8f-3bf194a838b5)
